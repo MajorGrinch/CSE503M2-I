@@ -1,3 +1,2 @@
 ### What is this repository for? ###
-
-Tis repo is for cse 330 module 2
+[Link for a text file](http://54.198.55.156/a.txt)
